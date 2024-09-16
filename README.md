@@ -258,9 +258,9 @@ GROUP BY category;
 
 ## Findings and Conclusion
 
-- **Content Distribution:** The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
-- **Common Ratings:** Insights into the most common ratings provide an understanding of the content's target audience.
-- **Geographical Insights:** The top countries and the average content releases by India highlight regional content distribution.
-- **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
+- **Content Distribution:** Content Distribution: The dataset showcases a wide array of movies (69.6%) and TV shows, with diverse genres and runtimes. This emphasizes Netflix’s focus on movie content over TV shows.
+- **Common Ratings:** While TV-MA is the most frequent rating, it reflects that a significant portion of content is designed for mature audiences, guiding content recommendations for users.
+- **Geographical Insights:** The U.S. contributes 32.3% of the content, followed by countries like Canada and the U.K., indicating the platform’s regional focus. The top 5 countries account for over 70% of the entire content library, highlighting significant regional trends.
+- **Content Categorization:** Categorizing content by year and region, particularly in India, revealed 2018 as a peak production year, aiding in future content planning. This categorization also helps in understanding shifts in viewer preferences over time.    
 
-This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+This analysis offers critical insights into Netflix's content distribution and target audience, allowing for data-driven decisions to enhance regional content strategy, customer engagement, and future content investments.
